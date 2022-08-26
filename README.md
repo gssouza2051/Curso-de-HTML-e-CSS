@@ -1,5 +1,5 @@
 
-#  <p align="center" >   Curso-de-HTML-e-CSS da Alura </p> 
+#  <p align="center" >   Curso de HTML e CSS da Alura </p> 
 -------------------------------------------------
 
 <p align="center">
